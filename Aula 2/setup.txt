@@ -1,0 +1,10 @@
+[ ] Instalar VSCode
+[ ] Instalar Extensão
+[ ] Instalar Pytho
+[ ] Linguagens Interpretadas vs Linguagens Compiladas
+[ ] Como executar um programa Python sem e com VSCode
+[ ] Bibliotecas, para que elas servem
+[ ] Ambiente Virtual vs Ambiente Global
+[ ] Criando um ambiente virtual
+[ ] Instalando o OpenCV
+[ ] Hello, World
