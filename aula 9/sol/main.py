@@ -109,7 +109,7 @@ if __name__ == "__main__":
                 + (sim_color[1] - diff_color[1])**2
                 + (sim_color[2] - diff_color[2])**2)
             if dist <= 30:
-                keys_to_remove.append(diff_color)
+                keys_to_remove.add(diff_color)
     
     for key in keys_to_remove:
         different.pop(key, None)
